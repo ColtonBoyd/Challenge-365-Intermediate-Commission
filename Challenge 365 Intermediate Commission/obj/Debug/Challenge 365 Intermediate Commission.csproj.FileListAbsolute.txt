@@ -1,0 +1,7 @@
+D:\Repos\Challenge 365 Intermediate Commission\Challenge 365 Intermediate Commission\obj\Debug\Challenge 365 Intermediate Commission.csprojAssemblyReference.cache
+D:\Repos\Challenge 365 Intermediate Commission\Challenge 365 Intermediate Commission\obj\Debug\Challenge 365 Intermediate Commission.csproj.CoreCompileInputs.cache
+D:\Repos\Challenge 365 Intermediate Commission\Challenge 365 Intermediate Commission\bin\Debug\Challenge 365 Intermediate Commission.exe.config
+D:\Repos\Challenge 365 Intermediate Commission\Challenge 365 Intermediate Commission\bin\Debug\Challenge 365 Intermediate Commission.exe
+D:\Repos\Challenge 365 Intermediate Commission\Challenge 365 Intermediate Commission\bin\Debug\Challenge 365 Intermediate Commission.pdb
+D:\Repos\Challenge 365 Intermediate Commission\Challenge 365 Intermediate Commission\obj\Debug\Challenge 365 Intermediate Commission.exe
+D:\Repos\Challenge 365 Intermediate Commission\Challenge 365 Intermediate Commission\obj\Debug\Challenge 365 Intermediate Commission.pdb
